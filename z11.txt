@@ -1,3 +1,7 @@
 whatsuphomie
+<<<<<<< HEAD
 jfjehgdgh
 whygodwhy
+=======
+okay mayyyyyy
+>>>>>>> br1
